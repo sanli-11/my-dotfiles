@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.config/
+!.config/alacritty/
+!.config/alacritty/alacritty.yml
+!.config/alacritty/alacritty.toml
+!.tmux.conf
+
