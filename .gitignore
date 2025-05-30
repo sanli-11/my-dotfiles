@@ -4,5 +4,7 @@
 !.config/alacritty/
 !.config/alacritty/alacritty.yml
 !.config/alacritty/alacritty.toml
+!.config/alacritty/catppuccin-mocha.yml
+!.config/alacritty/catppuccin-mocha.toml
 !.tmux.conf
 
